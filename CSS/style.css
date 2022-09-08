@@ -1,0 +1,117 @@
+*{
+  
+  padding: 0;
+  margin: 0;
+ 
+}
+
+.cabeza { 
+  display: flex;
+background-color: #030511;
+width: 100%;
+height: 30%;
+padding-top:1% ;
+padding-block: 1%;
+}
+
+.cDatos{
+  margin-top: 1%;
+  margin-left: 18%;
+  font-weight: bold;
+  color: white;
+}
+.cel{
+  text-align: center;
+  font-size:larger;
+}
+
+
+.perfil{
+  width: 180px;
+  border-radius: 50%;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+.perfil:hover {
+  opacity: 0.8;
+}
+
+.lik {
+  width: 50px;
+  height: 50px;
+  margin-left: 20%;
+}
+.linkd{
+  width: 50px;
+  height: 50px;
+}
+.linkd:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.fac{
+  margin-left: 2%;
+  margin-top: 10%;
+}
+.face{
+  width: 50px;
+  height: 50px;
+
+}
+.face:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.ins{
+  margin-left: 2%;
+  margin-top: 10%;
+}
+.inst{
+  width: 50px;
+  height: 50px;
+  margin-left: 2%;
+  margin-top: 10%;
+}
+.inst:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+
+body{
+  background-color: #1068EC;
+}
+
+
+
+.cprincipal{
+  margin-top: 4%;
+  display: flex;
+  color: white;
+}
+
+.dPersonales{ 
+margin-left:10% ;
+  font-size:larger;
+}
+
+.lPreparacion{
+  margin-left: 7%;
+  font-size:larger;
+}
+.cursos{
+  margin-left: 7%;
+  font-size:larger;
+}
+
+
+
+footer {
+
+  text-align: center;
+  padding: 40px;
+  color: white;
+}
+
